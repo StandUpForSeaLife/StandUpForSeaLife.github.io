@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "STAND UP FOR SEALIFE",
-    "currentPage": "Contact.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -15,7 +15,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 53,
+    "uniqCompNum": 13,
     "versionPublish": "4.8.10",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -289,7 +289,7 @@
           },
           "title2": "WHAT WE CAN DO",
           "caption2": "Use reusable plastic products. ... Because floating plastic often resembles food to many marine birds, sea turtles and marine mammals, they can choke or starve because their digestive systems get blocked when they eat it. Help prevent these unnecessary deaths—use cloth grocery bags and reusable water bottles.<br><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"What can we do?.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"what.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>",
           "media3": {
             "image": {
               "src": "images/google-fonts.png",
@@ -312,7 +312,7 @@
           },
           "title3": "BENEFITS",
           "caption3": "Plastic bottles, bags, furniture, electrical appliances, food packaging, construction materials - much of it ends up in the sea. Lighter than water, the plastic floats and is carried by ocean currents. ... But there is also a sea creature that takes advantage of the plastic: the sea skater <br>(Halobates sericeus).<br><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"What can we do?.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"what.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>",
           "media4": {
             "image": {
               "active": true,
@@ -527,7 +527,7 @@
             "color": "#3d8eb9",
             "hamburgerColor": "#ffffff"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Problems.html\">PROBLEMS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"What can we do?.html\">WHAT CAN WE DO?</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact.html\">CONTACT</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Problems.html\">PROBLEMS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"what.html\">WHAT CAN WE DO?</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact.html\">CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">DONATE</a></li>",
           "logo": {
             "image": {
@@ -845,7 +845,7 @@
             "color": "#3d8eb9",
             "hamburgerColor": "#ffffff"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Problems.html\">PROBLEMS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"What can we do?.html\">WHAT CAN WE DO?</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact.html\">CONTACT</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Problems.html\">PROBLEMS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"what.html\">WHAT CAN WE DO?</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact.html\">CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">DONATE</a></li>",
           "logo": {
             "image": {
@@ -869,206 +869,6 @@
           ],
           "_name": "menu",
           "_anchor": "menu-o"
-        }
-      ]
-    },
-    "What can we do?.html": {
-      "settings": {
-        "meta_descr": "Stand up for sealife | What can we do?",
-        "title": "Stand up for sealife | What can we do?",
-        "order": 2
-      },
-      "components": [
-        {
-          "_inherit": "msg-box3",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#fff"
-            },
-            ".mbr-article P": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": true,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/beach-close-up-cold-1533720-2000x1333.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": true,
-            "overlay": true,
-            "overlayColor": "#28324e",
-            "overlayOpacity": 0.2
-          },
-          "title": "WHAT CAN WE DO?",
-          "text": "<p>Oceana has compiled a list of suggestions for green – dare we say blue? – lifestyle choices that can help preserve the oceans for future generations.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "meta": "By John Smith posted July 30, 2015",
-          "_name": "content5",
-          "_anchor": "content5-19"
-        },
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "left"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": true,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": false,
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "10 Things You Can Do to Save the Oceans",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><b>1. Join Oceana</b></p><p>More than 550,000 members and e-activists in over 200 countries have already joined Oceana - the largest international organization focused 100 percent on ocean conservation. Become a Wavemaker here.</p><p><br></p><p><b>2. Vote responsibly. Contact your representative.</b></p><p>Electing the right public officials is essential to good ocean policy. Do your research and make an informed decision. Exercise your right to vote and stay involved after Election Day. If you have concerns or questions, contact your representative. Take action.</p><p><br></p><p><b>3. Eat sustainable seafood.</b></p><p>Global fisheries are on the verge of collapse. According to the U.N. Food and Agriculture Organization (FAO), three quarters of the world’s fisheries are now overexploited, fully exploited, significantly depleted or recovering from overexploitation. Carry a sustainable seafood card and ask your seafood restaurant or fish market to buy from sustainable fisheries. Look for special terms like \"line caught\", \"diver caught\", \"sustainably caught\" or \"sustainably harvested.</p><p><br></p><p><b>4. Reduce energy use.</b></p><p>Carbon dioxide from burning fossil fuels is making our oceans more acidic. One consequence could be the loss of corals on a global scale, as their calcium skeletons are weakened by the increasing acidity of the water. There are many simple ways you can reduce your energy use. Ride a bike, walk or use public transportation. Use high efficiency appliances in your home. Turn off appliances when they aren’t in use. Turn up your thermostat a few degrees in the summer and down a few degrees in the winter. Use compact fluorescent light bulbs in your house. For more information, see http://www.oceana.org/climate</p><p><br></p><p><b>5. Use reusable plastic products.</b></p><p>Plastic debris in the ocean degrades marine habitats and contributes to the deaths of many marine animals. Because floating plastic often resembles food to many marine birds, sea turtles and marine mammals, they can choke or starve because their digestive systems get blocked when they eat it. Help prevent these unnecessary deaths—use cloth grocery bags and reusable water bottles.</p><p><br></p><p><b>6. Properly dispose of hazardous materials.</b></p><p>Motor oil and other hazardous materials often end up washing into coastal areas because they aren’t disposed of properly.  This pollutes the water and hurts the overall health of our oceans. Be sure to dispose of hazardous waste in an environmentally safe way.</p><p><br></p><p><b>7. Use less fertilizer.</b></p><p>When fertilizers are used in gardening and agriculture, the excess eventually ends up in the ocean. One result is a “dead zone” — an area with very low levels of oxygen in the water — the size of New Jersey in the Gulf of Mexico during the spring and summer. Since all marine life requires oxygen to live, including fish and shrimp, they must flee the area or die. Many other coastal areas are at risk too. So, use fertilizer sparingly and remember more is usually not better.</p><p><br></p><p><b>8. Pick up garbage and litter near beaches.</b></p><p>Much of the plastic and debris found in the ocean has its beginnings in beach litter. As beach crowds increase, so does the amount of trash left behind. Don’t let your day at the beach contribute to the destruction of our oceans. Bring a trash bag with you for your garbage and volunteer for beach clean-ups.</p><p><br></p><p><b>9. Buy ocean-friendly products.</b></p><p>Avoid products produced through unsustainable or environmentally harmful methods. For example, avoid cosmetics containing shark squalene and jewelry made of coral or sea turtle shell. These products are directly linked to unsustainable fishing methods and the destruction of entire ecosystems.</p><p><br></p><p><b>10. Share with a friend.</b></p><p>Tell people what’s going on with the world’s oceans and what they can do to make a difference. Spread the word and join the conversation with us on Facebook and Twitter.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-1a"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#404040",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2019 OCEAN GARBAGE. | Designed by Rick Timmermans&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "footer1-17"
-        },
-        {
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#3d8eb9"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "logo": true,
-            "showBrand": false,
-            "showButtons": true,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": true,
-            "color": "#3d8eb9",
-            "hamburgerColor": "#ffffff"
-          },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Problems.html\">PROBLEMS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"What can we do?.html\">WHAT CAN WE DO?</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact.html\">CONTACT</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">DONATE</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo3-227x128.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Stand up for sealife Logo",
-              "link": "index.html",
-              "title": "Stand up for sealife Logo"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-18"
-        },
-        {
-          "_styles": {},
-          "_params": {
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "src": "images/slide3.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400
-            },
-            "video": {
-              "active": true,
-              "class": "mbr-figure__img",
-              "src": "https://www.youtube.com/watch?v=HQTUWK7CM-Y",
-              "autoplay": "on",
-              "loop": false,
-              "aspectratio": "4:3"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "video2",
-          "_anchor": "video2-1c"
         }
       ]
     },
@@ -1226,7 +1026,7 @@
             "color": "#3d8eb9",
             "hamburgerColor": "#ffffff"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Problems.html\">PROBLEMS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"What can we do?.html\">WHAT CAN WE DO?</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact.html\">CONTACT</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Problems.html\">PROBLEMS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"what.html\">WHAT CAN WE DO?</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact.html\">CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">DONATE</a></li>",
           "logo": {
             "image": {
@@ -1250,6 +1050,206 @@
           ],
           "_name": "menu",
           "_anchor": "menu-1e"
+        }
+      ]
+    },
+    "what.html": {
+      "settings": {
+        "meta_descr": "Stand up for sealife | What can we do?",
+        "title": "Stand up for sealife | What can we do?",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/beach-close-up-cold-1533720-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2
+          },
+          "title": "WHAT CAN WE DO?",
+          "text": "<p>Oceana has compiled a list of suggestions for green – dare we say blue? – lifestyle choices that can help preserve the oceans for future generations.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-19"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "10 Things You Can Do to Save the Oceans",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><b>1. Join Oceana</b></p><p>More than 550,000 members and e-activists in over 200 countries have already joined Oceana - the largest international organization focused 100 percent on ocean conservation. Become a Wavemaker here.</p><p><br></p><p><b>2. Vote responsibly. Contact your representative.</b></p><p>Electing the right public officials is essential to good ocean policy. Do your research and make an informed decision. Exercise your right to vote and stay involved after Election Day. If you have concerns or questions, contact your representative. Take action.</p><p><br></p><p><b>3. Eat sustainable seafood.</b></p><p>Global fisheries are on the verge of collapse. According to the U.N. Food and Agriculture Organization (FAO), three quarters of the world’s fisheries are now overexploited, fully exploited, significantly depleted or recovering from overexploitation. Carry a sustainable seafood card and ask your seafood restaurant or fish market to buy from sustainable fisheries. Look for special terms like \"line caught\", \"diver caught\", \"sustainably caught\" or \"sustainably harvested.</p><p><br></p><p><b>4. Reduce energy use.</b></p><p>Carbon dioxide from burning fossil fuels is making our oceans more acidic. One consequence could be the loss of corals on a global scale, as their calcium skeletons are weakened by the increasing acidity of the water. There are many simple ways you can reduce your energy use. Ride a bike, walk or use public transportation. Use high efficiency appliances in your home. Turn off appliances when they aren’t in use. Turn up your thermostat a few degrees in the summer and down a few degrees in the winter. Use compact fluorescent light bulbs in your house. For more information, see http://www.oceana.org/climate</p><p><br></p><p><b>5. Use reusable plastic products.</b></p><p>Plastic debris in the ocean degrades marine habitats and contributes to the deaths of many marine animals. Because floating plastic often resembles food to many marine birds, sea turtles and marine mammals, they can choke or starve because their digestive systems get blocked when they eat it. Help prevent these unnecessary deaths—use cloth grocery bags and reusable water bottles.</p><p><br></p><p><b>6. Properly dispose of hazardous materials.</b></p><p>Motor oil and other hazardous materials often end up washing into coastal areas because they aren’t disposed of properly.  This pollutes the water and hurts the overall health of our oceans. Be sure to dispose of hazardous waste in an environmentally safe way.</p><p><br></p><p><b>7. Use less fertilizer.</b></p><p>When fertilizers are used in gardening and agriculture, the excess eventually ends up in the ocean. One result is a “dead zone” — an area with very low levels of oxygen in the water — the size of New Jersey in the Gulf of Mexico during the spring and summer. Since all marine life requires oxygen to live, including fish and shrimp, they must flee the area or die. Many other coastal areas are at risk too. So, use fertilizer sparingly and remember more is usually not better.</p><p><br></p><p><b>8. Pick up garbage and litter near beaches.</b></p><p>Much of the plastic and debris found in the ocean has its beginnings in beach litter. As beach crowds increase, so does the amount of trash left behind. Don’t let your day at the beach contribute to the destruction of our oceans. Bring a trash bag with you for your garbage and volunteer for beach clean-ups.</p><p><br></p><p><b>9. Buy ocean-friendly products.</b></p><p>Avoid products produced through unsustainable or environmentally harmful methods. For example, avoid cosmetics containing shark squalene and jewelry made of coral or sea turtle shell. These products are directly linked to unsustainable fishing methods and the destruction of entire ecosystems.</p><p><br></p><p><b>10. Share with a friend.</b></p><p>Tell people what’s going on with the world’s oceans and what they can do to make a difference. Spread the word and join the conversation with us on Facebook and Twitter.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1a"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#404040",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 OCEAN GARBAGE. | Designed by Rick Timmermans&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "footer1-17"
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#3d8eb9"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#3d8eb9",
+            "hamburgerColor": "#ffffff"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Problems.html\">PROBLEMS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"what.html\">WHAT CAN WE DO?</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact.html\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">DONATE</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo3-227x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Stand up for sealife Logo",
+              "link": "index.html",
+              "title": "Stand up for sealife Logo"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-18"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=HQTUWK7CM-Y",
+              "autoplay": "on",
+              "loop": false,
+              "aspectratio": "4:3"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-1c"
         }
       ]
     }
